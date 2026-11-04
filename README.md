@@ -156,6 +156,3 @@ This repository shows that I am comfortable not only with model development, but
 
 The projects reflect industry-standard expectations for a modern ML/MLOps engineer: from experimentation and tuning through to automation, infrastructure management, and production deployment — all within the **Microsoft Azure** ecosystem.
 
----
-
-## Repository Structure
