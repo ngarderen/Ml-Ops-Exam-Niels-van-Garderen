@@ -2,7 +2,7 @@
 
 A collection of hands-on assessments completed as part of my MLOps exam. This portfolio showcases my ability to work across the full machine learning lifecycle — from experimentation through to production readiness — in modern cloud environments.
 
-The projects here demonstrate my practical skills in:
+The following projects demonstrate my practical skills in:
 
 - Developing and evaluating machine learning models
 - Experimentation and hyperparameter optimization
