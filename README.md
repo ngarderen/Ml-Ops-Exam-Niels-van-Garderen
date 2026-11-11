@@ -2,7 +2,7 @@
 
 A collection of hands-on assessments completed as part of my MLOps exam. This portfolio showcases my ability to work across the full machine learning lifecycle — from experimentation through to production readiness — in modern cloud environments.
 
-The projects here demonstrate my practical skills in:
+The following projects demonstrate my practical skills in:
 
 - Developing and evaluating machine learning models
 - Experimentation and hyperparameter optimization
@@ -34,7 +34,6 @@ Together, these assessments form a structured evaluation of the end-to-end respo
 ## Assessments
 
 ### 1. Machine Learning Assessment
-📁 [`ML Assessment/`](./ML%20Assessment/)
 
 Focus on traditional machine learning and deep learning explainability:
 
@@ -55,7 +54,6 @@ Focus on traditional machine learning and deep learning explainability:
 - `environment.yml` - Reproducible conda environment
 
 ### 2. Parameter Tuning Assessment
-📁 [`Parameter Tuning Assessment/`](./Parameter%20Tuning%20Assessment/)
 
 A production-style hyperparameter tuning workflow on **Azure Machine Learning**:
 
@@ -78,7 +76,6 @@ A production-style hyperparameter tuning workflow on **Azure Machine Learning**:
 - `setup.cfg` - Configuration management
 
 ### 3. CI/CD Assessment
-📁 [`CICD Assessment/`](./CICD%20Assessment/)
 
 Application delivery automation and deployment quality on **Azure**:
 
@@ -101,7 +98,6 @@ Application delivery automation and deployment quality on **Azure**:
 - `pyproject.toml` - Modern Python dependency management
 
 ### 4. Terraform Assessment
-📁 [`Terraform/`](./Terraform/)
 
 Infrastructure as Code for **Azure Databricks/Azure ML** deployment:
 
